@@ -1,0 +1,13 @@
+__pycache__/
+node_modules/
+backend/static/*
+backend/static/site/*
+!backend/static/site
+!backend/static/site/index.html
+
+migrations/
+
+.env
+
+# virtualenv path
+.vscode/settings.json
